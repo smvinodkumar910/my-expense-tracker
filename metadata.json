@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Track expenses with custom categories, monthly budget limits, and beautiful interactive charts to analyze spending trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
